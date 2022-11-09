@@ -6,8 +6,8 @@ export function Header() {
         <div className='banner'>
             <img src={logo} alt='logo KASA' className='lmj-logo' />
             <ul  className='lienMenu'>
-                <li className='lmj-title'><a href="/">Accueil</a></li>
-                <li className='lmj-title'><a href="/a-propos">A propos</a></li>
+                <li className='lmj-title'><link to="/">Accueil</link></li>
+                <li className='lmj-title'><link to="/a-propos">A propos</link></li>
             </ul>
         </div>
     )
