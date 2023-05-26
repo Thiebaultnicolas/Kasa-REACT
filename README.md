@@ -8,7 +8,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/ArthurBlanc)
 [![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logocolor=61dafb)](https://reactjs.org/)
 
-[Site live](https://arthurblanc.github.io/Kasa/) - <a href="#description-fr-">README en Français</a> - <a href="#en-description">English README</a>
+[Site live](https://thiebault-nicolas-projet7-kasa.netlify.app/) - <a href="#description-fr-">README en Français</a> - <a href="#en-description">English README</a>
 
 ## Description FR :
 
