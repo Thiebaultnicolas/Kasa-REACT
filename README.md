@@ -76,7 +76,7 @@ Le front-end sera lancé à l'URL:
 -   [Create React App](https://create-react-app.dev/) - Boîte à outils créée par Facebook, qui est la référence pour initier un projet React
 -   [React Router V6](https://reactrouter.com/) - Bibliothèque de routage pour React
 -   [GitHub](https://github.com/) - Outil de gestion de versions
--   [GitHub Pages](https://pages.github.com/) - Outil d’hébergement
+
 
 ## Auteur :
 
@@ -155,7 +155,7 @@ Front-end will launch at URL:
 -   [Create React App](https://create-react-app.dev/) - Toolkit created by Facebook, which is the reference for initiating a React project
 -   [React Router V6](https://reactrouter.com/) - Routing library for React
 -   [GitHub](https://github.com/) - Version control tool
--   [GitHub Pages](https://pages.github.com/) - Hosting tool
+
 
 ## Author:
 
